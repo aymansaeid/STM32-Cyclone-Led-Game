@@ -103,9 +103,9 @@ The entry point of the application. Handles system initialization and dispatches
 
 ### Steps:
 
-1.  **Get the Project:**
-    * Clone this repository: `git clone https://github.com/aymansaeid/STM32-Cyclone-Led-Game.git`
-    * Or download the project files as a ZIP and extract them.
+1. **Get the Project:**
+   * Clone this repository: `git clone https://github.com/aymansaeid/STM32-Cyclone-Led-Game.git`
+   * Or [download the project files as a ZIP](https://github.com/aymansaeid/STM32-Cyclone-Led-Game/blob/main/Cyclone%20LED%20Arcade%20Game.zip) and extract them.
 2.  **Open in IDE:**
     * Open the project in STM32CubeIDE (File -> Open Projects from File System...).
 3.  **Verify Configuration:**
