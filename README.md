@@ -146,6 +146,11 @@ Feel free to tweak the game to your liking:
 
 ## 📸 Game in Action! (Placeholder)
 
+![WhatsApp Video 2025-06-03 at 22 51 59_49bdc9c7](https://github.com/user-attachments/assets/64bd8555-4bde-4a51-9b9e-300243204431)
+_____________________________________________________________________________________________________________________
+![451024418-ab606f37-872c-4033-824d-3f78b6e1fd82](https://github.com/user-attachments/assets/c5411d64-5279-4329-9215-056efb6fb575)
+_____________________________________________________________________________________________________________________
+![451026708-3aa3cb86-77b6-4d35-bd70-4546788ad0b4](https://github.com/user-attachments/assets/9acfe4da-3830-45c5-9aad-95e55a7f95cd)
 
 
 ---
